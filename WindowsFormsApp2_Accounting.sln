@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2_Accounting_App", "WindowsFormsApp2_Accounting_App\WindowsFormsApp2_Accounting_App.csproj", "{3294D17F-2F51-4B3A-87FB-375AEC53D4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2_Accounting_DataLayer", "WindowsFormsApp2_Accounting_DataLayer\WindowsFormsApp2_Accounting_DataLayer.csproj", "{411964D7-044D-40CE-BE7C-7FBFD040928E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2_Accounting_ViewModels", "WindowsFormsApp2_Accounting_ViewModels\WindowsFormsApp2_Accounting_ViewModels.csproj", "{D9E523F7-07CB-4531-AC50-C853DCD3F35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2_Accounting_Logic", "WindowsFormsApp2_Accounting_Logic\WindowsFormsApp2_Accounting_Logic.csproj", "{5FF242D8-FEAA-4827-951C-616C4710C4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2_Accounting_Utilities", "WindowsFormsApp2_Accounting_Utilities\WindowsFormsApp2_Accounting_Utilities.csproj", "{05573854-065F-470F-9E3F-382BB4F27A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{4C16E457-3217-4B9E-A18B-8D6DF35F28F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3294D17F-2F51-4B3A-87FB-375AEC53D4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3294D17F-2F51-4B3A-87FB-375AEC53D4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3294D17F-2F51-4B3A-87FB-375AEC53D4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3294D17F-2F51-4B3A-87FB-375AEC53D4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411964D7-044D-40CE-BE7C-7FBFD040928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411964D7-044D-40CE-BE7C-7FBFD040928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411964D7-044D-40CE-BE7C-7FBFD040928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411964D7-044D-40CE-BE7C-7FBFD040928E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E523F7-07CB-4531-AC50-C853DCD3F35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E523F7-07CB-4531-AC50-C853DCD3F35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E523F7-07CB-4531-AC50-C853DCD3F35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E523F7-07CB-4531-AC50-C853DCD3F35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF242D8-FEAA-4827-951C-616C4710C4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF242D8-FEAA-4827-951C-616C4710C4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF242D8-FEAA-4827-951C-616C4710C4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF242D8-FEAA-4827-951C-616C4710C4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05573854-065F-470F-9E3F-382BB4F27A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05573854-065F-470F-9E3F-382BB4F27A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05573854-065F-470F-9E3F-382BB4F27A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05573854-065F-470F-9E3F-382BB4F27A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C16E457-3217-4B9E-A18B-8D6DF35F28F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C16E457-3217-4B9E-A18B-8D6DF35F28F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C16E457-3217-4B9E-A18B-8D6DF35F28F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C16E457-3217-4B9E-A18B-8D6DF35F28F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE4F04A-A370-42F0-B53A-208CF3979AC4}
+	EndGlobalSection
+EndGlobal

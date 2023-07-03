@@ -1,0 +1,6 @@
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\2\WindowsFormsApp2_Accounting\WindowsFormsApp2_Accounting_ViewModels\bin\Debug\WindowsFormsApp2_Accounting_ViewModels.dll
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\2\WindowsFormsApp2_Accounting\WindowsFormsApp2_Accounting_ViewModels\bin\Debug\WindowsFormsApp2_Accounting_ViewModels.pdb
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\2\WindowsFormsApp2_Accounting\WindowsFormsApp2_Accounting_ViewModels\obj\Debug\WindowsFormsApp2_Accounting_ViewModels.csproj.CoreCompileInputs.cache
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\2\WindowsFormsApp2_Accounting\WindowsFormsApp2_Accounting_ViewModels\obj\Debug\WindowsFormsApp2_Accounting_ViewModels.dll
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\2\WindowsFormsApp2_Accounting\WindowsFormsApp2_Accounting_ViewModels\obj\Debug\WindowsFormsApp2_Accounting_ViewModels.pdb
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\2\WindowsFormsApp2_Accounting\WindowsFormsApp2_Accounting_ViewModels\obj\Debug\WindowsFormsApp2_Accounting_ViewModels.csproj.AssemblyReference.cache
